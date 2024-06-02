@@ -1,0 +1,24 @@
+ProgramStudi_ID,Sarana_ID,NamaProgramStudi,Year,JumlahPeminat,DayaTampung,KapasitasDosen,KapasitasTendik
+1,2,Informatika,2021,2975,190,12,11
+2,5,Informatika,2022,5302,200,13,12
+3,1,Informatika,2022,5302,200,13,12
+4,3,Informatika,2023,7745,210,14,13
+5,5,Informatika,2023,7745,210,14,13
+6,2,Informatika,2023,7745,210,14,23
+7,1,Teknik Komputer,2021,2150,131,18,12
+8,2,Teknik Komputer,2021,2150,131,18,12
+9,3,Teknik Komputer,2022,14072,211,20,12
+10,4,Teknik Komputer,2023,14623,273,21,14
+11,5,Teknik Komputer,2023,14623,273,21,14
+12,1,Teknik Elektro,2021,8776,131,10,11
+13,2,Teknik Elektro,2022,13032,181,20,11
+14,3,Teknik Elektro,2023,11188,168,20,18
+15,4,Teknik Elektro,2023,11188,168,20,18
+16,1,Teknologi Informasi,2022,12184,114,10,17
+17,2,Teknologi Informasi,2022,12184,114,10,17
+18,3,Teknologi Informasi,2023,5300,193,12,14
+19,4,Teknologi Informasi,2023,5300,193,12,14
+20,1,Sistem Informasi,2021,15622,104,30,31
+21,2,Sistem Informasi,2022,16448,123,32,35
+22,3,Sistem Informasi,2022,16448,123,32,35
+23,4,Sistem Informasi,2023,18003,200,42,38

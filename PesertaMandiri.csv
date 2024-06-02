@@ -1,0 +1,51 @@
+Peserta_ID,Jalur_ID,Rapor_ID,TesMandiri_ID,PilihanSatu_ID,PilihanDua_ID,NamaPeserta,NIK,Pasfoto,KK,Alamat,TanggalLahir,TempatLahir,Ibu_ID,Ayah_ID,Akun_ID,Kecamatan_ID
+1,1,1,1,3,9,Anne-corinne Heading,247021022737,http://dummyimage.com/225x100.png/cc0000/ffffff,http://dummyimage.com/216x100.png/cc0000/ffffff,820 Claremont Park,5/8/2001,Paobulan,1,1,1,1
+2,2,2,2,1,8,Gilles Aicheson,244227296049,http://dummyimage.com/115x100.png/5fa2dd/ffffff,http://dummyimage.com/156x100.png/cc0000/ffffff,4 Dawn Trail,4/28/2001,Rongmei,2,2,2,8
+3,3,3,3,2,5,Kori Gethins,255877547274,http://dummyimage.com/229x100.png/cc0000/ffffff,http://dummyimage.com/235x100.png/cc0000/ffffff,1092 Anzinger Drive,2/16/2001,Doljo,3,3,3,5
+4,4,4,4,1,2,Elva Daens,242875970136,http://dummyimage.com/139x100.png/5fa2dd/ffffff,http://dummyimage.com/135x100.png/ff4444/ffffff,96 Elka Place,5/30/2000,Kanália,4,4,4,5
+5,5,5,5,4,10,Giorgi Pues,262738536016,http://dummyimage.com/238x100.png/5fa2dd/ffffff,http://dummyimage.com/214x100.png/dddddd/000000,78021 Crest Line Plaza,7/2/2000,Qingyuan,5,5,5,6
+6,6,6,6,1,12,Cynthea Blaby,253997477391,http://dummyimage.com/218x100.png/ff4444/ffffff,http://dummyimage.com/163x100.png/ff4444/ffffff,20990 Sloan Center,3/11/2001,Pļaviņas,6,6,6,3
+7,7,7,7,2,9,Moll Bergen,271909007274,http://dummyimage.com/226x100.png/ff4444/ffffff,http://dummyimage.com/198x100.png/5fa2dd/ffffff,52078 Esker Drive,10/24/2000,Outeiro Seco,7,7,7,7
+8,8,8,8,2,9,Ethe Penddreth,262984700835,http://dummyimage.com/129x100.png/5fa2dd/ffffff,http://dummyimage.com/164x100.png/ff4444/ffffff,953 Clemons Crossing,8/18/2000,Villa Nueva,8,8,8,10
+9,9,9,9,4,23,Aggie Backwell,131727968418,http://dummyimage.com/104x100.png/cc0000/ffffff,http://dummyimage.com/215x100.png/dddddd/000000,6 Reinke Pass,10/22/2000,Nytva,9,9,9,4
+10,10,10,10,2,4,Jayme Baxendale,260297281122,http://dummyimage.com/123x100.png/dddddd/000000,http://dummyimage.com/176x100.png/cc0000/ffffff,555 Canary Point,5/17/2001,Mīrpur Sakro,10,10,10,10
+11,11,11,11,4,14,Arlin Buttner,345493838387,http://dummyimage.com/176x100.png/dddddd/000000,http://dummyimage.com/168x100.png/dddddd/000000,9558 Milwaukee Street,11/20/2000,Wangcheng,11,11,11,9
+12,12,12,12,3,13,Jaquenetta Winterson,190875950406,http://dummyimage.com/146x100.png/dddddd/000000,http://dummyimage.com/160x100.png/ff4444/ffffff,050 Hauk Drive,1/5/2001,Zaria,12,12,12,5
+13,13,13,13,5,2,Patti Oager,289289407977,http://dummyimage.com/120x100.png/cc0000/ffffff,http://dummyimage.com/136x100.png/ff4444/ffffff,991 Macpherson Terrace,2/28/2001,Buđanovci,13,13,13,5
+14,14,14,14,5,18,Selina Worgan,282451168893,http://dummyimage.com/243x100.png/cc0000/ffffff,http://dummyimage.com/131x100.png/dddddd/000000,69 Moose Pass,11/5/2001,Ottawa,14,14,14,6
+15,15,15,15,1,20,Skye Edelmann,216521187434,http://dummyimage.com/234x100.png/5fa2dd/ffffff,http://dummyimage.com/118x100.png/ff4444/ffffff,876 Oxford Way,10/12/2001,Trelleborg,15,15,15,4
+16,16,16,16,2,1,Fletcher Flannery,216660800203,http://dummyimage.com/225x100.png/cc0000/ffffff,http://dummyimage.com/204x100.png/5fa2dd/ffffff,863 Vahlen Parkway,11/27/2000,Dingchang,16,16,16,10
+17,17,17,17,1,5,Nadean Vasilyonok,184156399360,http://dummyimage.com/203x100.png/ff4444/ffffff,http://dummyimage.com/185x100.png/5fa2dd/ffffff,01 Golf Alley,9/12/2001,Fengshan,17,17,17,6
+18,18,18,18,5,19,Amber Brammall,312328931119,http://dummyimage.com/136x100.png/ff4444/ffffff,http://dummyimage.com/159x100.png/ff4444/ffffff,65 Coolidge Circle,9/20/2000,Rzeszów,18,18,18,8
+19,19,19,19,1,2,Brittaney Daintry,220579882933,http://dummyimage.com/240x100.png/dddddd/000000,http://dummyimage.com/119x100.png/cc0000/ffffff,36562 Trailsway Point,6/30/2000,Kalmar,19,19,19,7
+20,20,20,20,3,2,Claudelle Sawter,254484960277,http://dummyimage.com/172x100.png/cc0000/ffffff,http://dummyimage.com/176x100.png/5fa2dd/ffffff,2 4th Street,4/1/2001,Bukbatang,20,20,20,4
+21,21,21,21,2,3,Bat Barlow,259354910465,http://dummyimage.com/152x100.png/cc0000/ffffff,http://dummyimage.com/139x100.png/5fa2dd/ffffff,98 Reindahl Street,2/20/2001,Mertzig,21,21,21,4
+22,22,22,22,1,12,Jaynell Deedes,250362355017,http://dummyimage.com/245x100.png/ff4444/ffffff,http://dummyimage.com/130x100.png/5fa2dd/ffffff,71 Oneill Trail,1/12/2001,Borås,22,22,22,5
+23,23,23,23,1,5,Garrott Gavrieli,176142229384,http://dummyimage.com/195x100.png/cc0000/ffffff,http://dummyimage.com/185x100.png/5fa2dd/ffffff,354 Prairieview Lane,9/12/2000,Sutton,23,23,23,3
+24,24,24,24,4,11,Rod Lanchbury,270146375786,http://dummyimage.com/125x100.png/dddddd/000000,http://dummyimage.com/168x100.png/5fa2dd/ffffff,16 Milwaukee Avenue,6/3/2001,Macaé,24,24,24,8
+25,25,25,25,7,1,Brigham Brussell,173305489192,http://dummyimage.com/233x100.png/cc0000/ffffff,http://dummyimage.com/149x100.png/ff4444/ffffff,42332 Hallows Parkway,1/19/2001,Vista Alegre,25,25,25,10
+26,26,26,26,9,2,Giacomo McGillreich,223673628249,http://dummyimage.com/104x100.png/cc0000/ffffff,http://dummyimage.com/157x100.png/5fa2dd/ffffff,920 Algoma Trail,8/14/2001,Liaoyang,26,26,26,4
+27,27,27,27,5,1,Michelle Skarr,194984331020,http://dummyimage.com/134x100.png/cc0000/ffffff,http://dummyimage.com/126x100.png/dddddd/000000,617 Old Gate Plaza,2/4/2001,Nova Cruz,27,27,27,9
+28,28,28,28,3,4,Jaime Sidwell,148281212757,http://dummyimage.com/244x100.png/ff4444/ffffff,http://dummyimage.com/178x100.png/ff4444/ffffff,7080 Ronald Regan Terrace,9/26/2001,Yataity del Norte,28,28,28,4
+29,29,29,29,2,1,Sigmund Maddrah,288504695683,http://dummyimage.com/238x100.png/ff4444/ffffff,http://dummyimage.com/141x100.png/dddddd/000000,01991 Dawn Crossing,1/30/2001,Soras,29,29,29,2
+30,30,30,30,3,1,Johan McLardie,343027477623,http://dummyimage.com/212x100.png/5fa2dd/ffffff,http://dummyimage.com/192x100.png/dddddd/000000,5597 Dapin Trail,9/23/2000,Arroio Grande,30,30,30,10
+31,31,31,31,4,15,Karrah Keming,329363806501,http://dummyimage.com/160x100.png/dddddd/000000,http://dummyimage.com/207x100.png/5fa2dd/ffffff,0 Heath Street,9/21/2001,Quebracho,31,31,31,10
+32,32,32,32,5,4,Karie Mounsey,190438331165,http://dummyimage.com/238x100.png/ff4444/ffffff,http://dummyimage.com/149x100.png/cc0000/ffffff,2295 Summerview Park,10/5/2000,Hearst,32,32,32,1
+33,33,33,33,4,5,Sloan Easterling,262962343460,http://dummyimage.com/167x100.png/ff4444/ffffff,http://dummyimage.com/210x100.png/cc0000/ffffff,515 South Court,5/11/2001,Madamba,33,33,33,5
+34,34,34,34,5,4,Vasily Slowley,276134119924,http://dummyimage.com/244x100.png/ff4444/ffffff,http://dummyimage.com/178x100.png/5fa2dd/ffffff,84 Browning Court,5/18/2000,Baiyashi,34,34,34,4
+35,35,35,35,1,2,Constantino Stang-Gjertsen,332082267758,http://dummyimage.com/171x100.png/dddddd/000000,http://dummyimage.com/141x100.png/cc0000/ffffff,80292 Graedel Point,6/19/2001,Tahe,35,35,35,5
+36,36,36,36,2,5,Debora Meier,277029996633,http://dummyimage.com/153x100.png/5fa2dd/ffffff,http://dummyimage.com/147x100.png/5fa2dd/ffffff,57 Sundown Terrace,10/3/2000,Béré,36,36,36,10
+37,37,37,37,2,4,Vince Dericot,325943685493,http://dummyimage.com/246x100.png/ff4444/ffffff,http://dummyimage.com/196x100.png/dddddd/000000,179 Anhalt Avenue,8/11/2000,Puszczykowo,37,37,37,9
+38,38,38,38,3,1,Lilly Larrad,146221589400,http://dummyimage.com/173x100.png/dddddd/000000,http://dummyimage.com/133x100.png/5fa2dd/ffffff,317 Welch Point,5/15/2000,Zaozerne,38,38,38,10
+39,39,39,39,5,3,Bruce Josovich,135426899658,http://dummyimage.com/212x100.png/ff4444/ffffff,http://dummyimage.com/234x100.png/ff4444/ffffff,61 Coolidge Pass,7/28/2001,Melekyne,39,39,39,6
+40,40,40,40,4,2,Gino Vidgen,210975836200,http://dummyimage.com/105x100.png/5fa2dd/ffffff,http://dummyimage.com/170x100.png/ff4444/ffffff,3807 Pine View Lane,7/5/2001,Mempawah,40,40,40,1
+41,41,41,41,5,3,Lil Gilbride,201046647549,http://dummyimage.com/157x100.png/dddddd/000000,http://dummyimage.com/165x100.png/ff4444/ffffff,447 Oxford Lane,11/16/2001,Steinkjer,41,41,41,1
+42,42,42,42,1,2,Koren Norfolk,175224702310,http://dummyimage.com/214x100.png/dddddd/000000,http://dummyimage.com/155x100.png/ff4444/ffffff,3 Barnett Park,4/9/2001,Talata Mafara,42,42,42,9
+43,43,43,43,1,3,Brendon Checketts,166009905214,http://dummyimage.com/242x100.png/5fa2dd/ffffff,http://dummyimage.com/127x100.png/cc0000/ffffff,3 Norway Maple Pass,9/23/2000,Little Current,43,43,43,9
+44,44,44,44,2,5,Selestina Preddy,141068554430,http://dummyimage.com/160x100.png/ff4444/ffffff,http://dummyimage.com/140x100.png/cc0000/ffffff,221 Calypso Court,12/27/2000,Ilhabela,44,44,44,7
+45,45,45,45,1,2,Arney Lebarree,201418137357,http://dummyimage.com/186x100.png/5fa2dd/ffffff,http://dummyimage.com/241x100.png/5fa2dd/ffffff,70 Tennyson Terrace,5/15/2001,Zherdevka,45,45,45,1
+46,46,46,46,2,2,Vernen Griston,184151657119,http://dummyimage.com/195x100.png/dddddd/000000,http://dummyimage.com/152x100.png/cc0000/ffffff,508 Corry Pass,7/8/2000,Weifang,46,46,46,1
+47,47,47,47,5,3,Wendall Breckenridge,187701032074,http://dummyimage.com/183x100.png/cc0000/ffffff,http://dummyimage.com/241x100.png/ff4444/ffffff,23382 Kensington Court,6/27/2001,Yên Bái,47,47,47,8
+48,48,48,48,11,14,Madelon Simecek,185607816627,http://dummyimage.com/216x100.png/dddddd/000000,http://dummyimage.com/108x100.png/cc0000/ffffff,7629 Anderson Crossing,8/9/2001,Jambesari,48,48,48,9
+49,49,49,49,4,3,Erich Tombleson,139105104098,http://dummyimage.com/203x100.png/dddddd/000000,http://dummyimage.com/143x100.png/dddddd/000000,90799 Merry Lane,9/10/2001,El Mirador,49,49,49,8
+50,50,50,50,23,18,Brady Call,149687876544,http://dummyimage.com/215x100.png/dddddd/000000,http://dummyimage.com/213x100.png/dddddd/000000,55 Laurel Junction,8/25/2000,Aliuroba,50,50,50,10
